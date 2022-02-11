@@ -1,5 +1,4 @@
-#Usage
----
+# Usage
 
 Inside `/src/` have your project files and enter the docker container with the following command:
 
